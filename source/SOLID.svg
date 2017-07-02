@@ -67,7 +67,7 @@
     <path d="M 61.635 222.324 L 64.585 222.324 L 64.585 230.138 L 61.635 230.138 L 61.635 222.324 Z M 63.109 216.464 L 67.041 222.324 L 59.176 222.324 L 63.109 216.464 Z" style="fill: rgb(68, 68, 68);" transform="matrix(-1, 0, 0, -1, 126.216992, 446.60199)"/>
   </g>
   <text x="70.01" y="214.476" transform="matrix(1.310871, 0, 0, 1.302289, -2.43482, -37.315159)" style="fill: rgb(34, 34, 34); font-family: Roboto; font-size: 9.98242px; font-weight: 500; white-space: pre;">Liskov Substitution Principle (LSP)</text>
-  <text x="75.004" y="224.681" transform="matrix(1.310871, 0, 0, 1.302289, -3.315328, -38.329247)" style="fill: rgb(68, 68, 68); font-family: Roboto; font-size: 7.67879px; font-weight: 300; white-space: pre;">Entities in a program should be replaceable with instance of their subtypes</text>
+  <text x="75.004" y="224.681" transform="matrix(1.310871, 0, 0, 1.302289, -3.315328, -38.329247)" style="fill: rgb(68, 68, 68); font-family: Roboto; font-size: 7.67879px; font-weight: 300; white-space: pre;">Entities in a program should be replaceable with instances of their subtypes</text>
   <g transform="matrix(0.95358, 0, 0, 0.95984, 2.321004, -14.868643)">
     <rect style="fill: rgb(216, 216, 216);" x="50" y="255.114" width="26.217" height="26.046"/>
     <rect x="200.563" y="134.136" width="13.109" height="13.023" style="fill: rgb(117, 185, 88);" transform="matrix(1, 0, 0, 0.999999, -146.63076, 124.88564)"/>
